@@ -1,0 +1,281 @@
+uri,keyword,nri
+https://gcmd.earthdata.nasa.gov/kms/concept/c47f6052-634e-40ef-a5ac-13f69f6f4c2a,Atmosphere,IMOS
+https://gcmd.earthdata.nasa.gov/kms/concept/08fd82a1-4370-46a2-82ea-94c0f91498a7,Atmosphere | Atmospheric Pressure,IMOS
+https://gcmd.earthdata.nasa.gov/kms/concept/9efbc088-ba8c-4c9c-a458-ad6ad63f4188,Atmosphere | Atmospheric Pressure | Atmospheric Pressure Measurements,IMOS
+https://gcmd.earthdata.nasa.gov/kms/concept/9efbc088-ba8c-4c9c-a458-ad6ad63f4188,Atmosphere | Atmospheric Pressure | Atmospheric Pressure,IMOS
+https://gcmd.earthdata.nasa.gov/kms/concept/07ce145c-9936-4675-b4a7-8710e39aa391,Atmosphere | Atmospheric Pressure | Sea Level Pressure,IMOS
+https://gcmd.earthdata.nasa.gov/kms/concept/b54de5cd-4475-4c7b-acbc-4eb529b9396e,Atmosphere | Atmospheric Pressure | Surface Pressure,IMOS
+https://gcmd.earthdata.nasa.gov/kms/concept/4ad0c52d-6449-48ff-8678-adc6b2cebcb7,Atmosphere | Atmospheric Radiation,IMOS
+https://gcmd.earthdata.nasa.gov/kms/concept/7cacbfdf-71a3-4fac-b690-9aa54e4060dd,Atmosphere | Atmospheric Radiation | Earth Radiation Budget,IMOS
+https://gcmd.earthdata.nasa.gov/kms/concept/7cacbfdf-71a3-4fac-b690-9aa54e4060dd,Atmosphere | Radiation Budget,IMOS
+https://gcmd.earthdata.nasa.gov/kms/concept/46a3c823-727d-4c3c-b09d-e3e3fcaa43a5,Atmosphere | Atmospheric Radiation | Heat Flux,IMOS
+https://gcmd.earthdata.nasa.gov/kms/concept/46a3c823-727d-4c3c-b09d-e3e3fcaa43a5,Atmosphere | Radiation Budget | Heat Flux,IMOS
+https://gcmd.earthdata.nasa.gov/kms/concept/68323795-3614-462f-8259-bd5293620799,Atmosphere | Atmospheric Radiation | Longwave Radiation,IMOS
+https://gcmd.earthdata.nasa.gov/kms/concept/68323795-3614-462f-8259-bd5293620799,Atmosphere | Radiation Budget | Longwave Radiation,IMOS
+https://gcmd.earthdata.nasa.gov/kms/concept/50ee8910-449b-46c8-a59b-1cd76d632b44,Atmosphere | Atmospheric Radiation | Net Radiation,IMOS
+https://gcmd.earthdata.nasa.gov/kms/concept/50ee8910-449b-46c8-a59b-1cd76d632b44,Atmosphere | Radiation Budget | Net Radiation,IMOS
+https://gcmd.earthdata.nasa.gov/kms/concept/107582ef-a356-4afa-a9a4-4e1d2200c134,Atmosphere | Atmospheric Radiation | Radiative Flux,IMOS
+https://gcmd.earthdata.nasa.gov/kms/concept/107582ef-a356-4afa-a9a4-4e1d2200c134,Atmosphere | Radiation Budget | Radiative Flux,IMOS
+https://gcmd.earthdata.nasa.gov/kms/concept/a8f5c969-34e9-4284-afb5-ff2113f5f881,Atmosphere | Atmospheric Radiation | Shortwave Radiation,IMOS
+https://gcmd.earthdata.nasa.gov/kms/concept/a8f5c969-34e9-4284-afb5-ff2113f5f881,Atmosphere | Radiation Budget | Shortwave Radiation,IMOS
+https://gcmd.earthdata.nasa.gov/kms/concept/35e1f93b-99b3-4430-b477-0ecafa80d67a,Atmosphere | Atmospheric Temperature,IMOS
+https://gcmd.earthdata.nasa.gov/kms/concept/5a7bb095-4d12-4232-bc75-b8e82197cb92,Atmosphere | Atmospheric Temperature | Surface Temperature,IMOS
+https://gcmd.earthdata.nasa.gov/kms/concept/f634ab55-de40-4d0b-93bc-691bf5408ccb,Atmosphere | Atmospheric Temperature | Surface Temperature | Air Temperature,IMOS
+https://gcmd.earthdata.nasa.gov/kms/concept/f634ab55-de40-4d0b-93bc-691bf5408ccb,Atmosphere | Atmospheric Temperature | Surface Air Temperature,IMOS
+https://gcmd.earthdata.nasa.gov/kms/concept/f634ab55-de40-4d0b-93bc-691bf5408ccb,Atmosphere | Atmospheric Temperature | Air Temperature,IMOS
+https://gcmd.earthdata.nasa.gov/kms/concept/25fcdcb7-efd2-4d2f-ba57-92bbcc7ba69a,Atmosphere | Atmospheric Temperature | Surface Temperature | Skin Temperature,IMOS
+https://gcmd.earthdata.nasa.gov/kms/concept/25fcdcb7-efd2-4d2f-ba57-92bbcc7ba69a,Atmosphere | Atmospheric Temperature | Skin Temperature,IMOS
+https://gcmd.earthdata.nasa.gov/kms/concept/286d2ae0-9d86-4ef0-a2b4-014843a98532,Atmosphere | Atmospheric Water Vapor,IMOS
+https://gcmd.earthdata.nasa.gov/kms/concept/005d192a-95b9-4fc2-afed-f87da3c3dc33,Atmosphere | Atmospheric Water Vapor | Water Vapor Indicators,IMOS
+https://gcmd.earthdata.nasa.gov/kms/concept/731beb11-9418-40ec-8f2c-c4b320e8231a,Atmosphere | Atmospheric Water Vapor | Water Vapor Indicators | Dew Point Temperature,IMOS
+https://gcmd.earthdata.nasa.gov/kms/concept/731beb11-9418-40ec-8f2c-c4b320e8231a,Atmosphere | Atmospheric Water Vapor | Dew Point,IMOS
+https://gcmd.earthdata.nasa.gov/kms/concept/427e5121-a142-41cb-a8e9-a70b7f98eb6a,Atmosphere | Atmospheric Water Vapor | Water Vapor Indicators | Humidity,IMOS
+https://gcmd.earthdata.nasa.gov/kms/concept/427e5121-a142-41cb-a8e9-a70b7f98eb6a,Atmosphere | Atmospheric Water Vapor | Humidity,IMOS
+https://gcmd.earthdata.nasa.gov/kms/concept/df160e31-ae45-41a4-9093-a80fe5303cea,Atmosphere | Atmospheric Winds,IMOS
+https://gcmd.earthdata.nasa.gov/kms/concept/10685919-bc01-43e7-901a-b62ac44627f3,Atmosphere | Atmospheric Winds | Surface Winds,IMOS
+https://gcmd.earthdata.nasa.gov/kms/concept/1532e590-a62d-46e3-8d03-2351bc48166a,Atmosphere | Precipitation,IMOS
+https://gcmd.earthdata.nasa.gov/kms/concept/7d45f108-dda2-4341-b853-ee3a490aad59,Atmosphere | Precipitation | Liquid Precipitation,IMOS
+https://gcmd.earthdata.nasa.gov/kms/concept/09a57dc7-3911-4a65-9f12-b819652b8671,Atmosphere | Precipitation | Liquid Precipitation | Rain,IMOS
+https://gcmd.earthdata.nasa.gov/kms/concept/09a57dc7-3911-4a65-9f12-b819652b8671,Atmosphere | Precipitation | Rain,IMOS
+https://gcmd.earthdata.nasa.gov/kms/concept/cad5c02a-e771-434e-bef6-8dced38a68e8,Atmosphere | Precipitation | Precipitation Amount,IMOS
+https://gcmd.earthdata.nasa.gov/kms/concept/ac50c468-df2f-429c-8394-9d63efcc6f9d,Atmosphere | Precipitation | Precipitation Rate,IMOS
+https://gcmd.earthdata.nasa.gov/kms/concept/fbec5145-79e6-4ed0-a804-6228aa6daba5,Biological Classification,IMOS
+https://gcmd.earthdata.nasa.gov/kms/concept/fbec5145-79e6-4ed0-a804-6228aa6daba5,Biosphere | Animal Taxonomy,IMOS
+https://gcmd.earthdata.nasa.gov/kms/concept/fbec5145-79e6-4ed0-a804-6228aa6daba5,Biosphere | Microbiota Taxonomy,IMOS
+https://gcmd.earthdata.nasa.gov/kms/concept/fbec5145-79e6-4ed0-a804-6228aa6daba5,Biosphere | Microbiota,IMOS
+https://gcmd.earthdata.nasa.gov/kms/concept/fbec5145-79e6-4ed0-a804-6228aa6daba5,Biosphere | Zoology,IMOS
+https://gcmd.earthdata.nasa.gov/kms/concept/fbec5145-79e6-4ed0-a804-6228aa6daba5,Oceans | Marine Biology | Marine Microbiota,IMOS
+https://biodiversity.org.au/afd/taxa/4647863b-760d-4b59-aaa1-502c8cdf8d3c,Biological Classification | Animals/Invertebrates,IMOS
+https://biodiversity.org.au/afd/taxa/4647863b-760d-4b59-aaa1-502c8cdf8d3c,Biosphere | Animal Taxonomy | Zooplankton,IMOS
+https://biodiversity.org.au/afd/taxa/4647863b-760d-4b59-aaa1-502c8cdf8d3c,Biosphere | Microbiota | Zooplankton,IMOS
+https://biodiversity.org.au/afd/taxa/4647863b-760d-4b59-aaa1-502c8cdf8d3c,Biosphere | Zoology | Zooplankton,IMOS
+https://biodiversity.org.au/afd/taxa/4647863b-760d-4b59-aaa1-502c8cdf8d3c,Biosphere | Microbiota Taxonomy | Zooplankton,IMOS
+https://biodiversity.org.au/afd/taxa/ec21b060-78e8-4a37-9e62-b8bef532b001,Biological Classification | Animals/Invertebrates | Arthropods,IMOS
+https://biodiversity.org.au/afd/taxa/bec9ed2c-f8b6-4531-8226-14da4fd2ce8d,Biological Classification | Animals/Invertebrates | Arthropods | Crustaceans,IMOS
+https://biodiversity.org.au/afd/taxa/bec9ed2c-f8b6-4531-8226-14da4fd2ce8d,Biosphere | Zoology | Crustaceans,IMOS
+https://biodiversity.org.au/afd/taxa/9e517557-be41-43c3-b7c2-1c6a2a6f9f80,Biological Classification | Animals/Invertebrates | Arthropods | Crustaceans | Copepods,IMOS
+https://biodiversity.org.au/afd/taxa/3dc64238-278c-40c6-b5c9-5172f31f1dcb,Biological Classification | Animals/Invertebrates | Cnidarians,IMOS
+https://biodiversity.org.au/afd/taxa/3dc64238-278c-40c6-b5c9-5172f31f1dcb,Biosphere | Zoology | Corals,IMOS
+https://biodiversity.org.au/afd/taxa/4fb59020-e4a8-4973-adca-a4f662c4645c,Biological Classification | Animals/Invertebrates | Mollusks,IMOS
+https://biodiversity.org.au/afd/taxa/4fb59020-e4a8-4973-adca-a4f662c4645c,Biosphere | Zoology | Mollusks,IMOS
+https://biodiversity.org.au/afd/taxa/5d6076b1-b7c7-487f-9d61-0fea0111cc7e,Biological Classification | Animals/Vertebrates,IMOS
+https://biodiversity.org.au/afd/taxa/65625205-db74-4a87-b566-ca387b119974,Biological Classification | Animals/Vertebrates | Birds,IMOS
+https://biodiversity.org.au/afd/taxa/65625205-db74-4a87-b566-ca387b119974,Oceans | Marine Biology | Marine Birds,IMOS
+https://biodiversity.org.au/afd/taxa/e22efeb4-2cb5-4250-8d71-61c48bdaa051,Biological Classification | Animals/Vertebrates | Fish,IMOS
+https://biodiversity.org.au/afd/taxa/e22efeb4-2cb5-4250-8d71-61c48bdaa051,Oceans | Marine Biology | Fish,IMOS
+https://biodiversity.org.au/afd/taxa/e9e7db31-04df-41fb-bd8d-e0b0f3c332d6,Biological Classification | Animals/Vertebrates | Marine Mammals,IMOS
+https://biodiversity.org.au/afd/taxa/e9e7db31-04df-41fb-bd8d-e0b0f3c332d6,Oceans | Marine Biology | Marine Mammals,IMOS
+https://biodiversity.org.au/afd/taxa/682e1228-5b3c-45ff-833b-550efd40c399,Biological Classification | Animals/Vertebrates | Reptiles,IMOS
+https://biodiversity.org.au/afd/taxa/682e1228-5b3c-45ff-833b-550efd40c399,Oceans | Marine Biology | Marine Reptiles,IMOS
+https://bie.ala.org.au/species/NZOR-6-73174,Biological Classification | Bacteria/Archaea,IMOS
+https://bie.ala.org.au/species/NZOR-6-73174,Biosphere | Microbiota | Bacteria,IMOS
+https://biodiversity.org.au/afd/taxa/a0a6eb8f-d2c8-445f-971e-c2bf10411127,Biological Classification | Protists | Ciliates,IMOS
+https://biodiversity.org.au/afd/taxa/a0a6eb8f-d2c8-445f-971e-c2bf10411127,Biosphere | Microbiota Taxonomy | Ciliates,IMOS
+https://gcmd.earthdata.nasa.gov/kms/concept/91c64c46-d040-4daa-b26c-61952fdfaf50,Biological Classification | Plants | Microalgae,IMOS
+https://gcmd.earthdata.nasa.gov/kms/concept/91c64c46-d040-4daa-b26c-61952fdfaf50,Biosphere | Microbiota Taxonomy | Microalgae,IMOS
+https://gcmd.earthdata.nasa.gov/kms/concept/91c64c46-d040-4daa-b26c-61952fdfaf50,Biosphere | Microbiota Taxonomy | Microphytes,IMOS
+https://bie.ala.org.au/species/NZOR-6-124983,Biological Classification | Plants | Microalgae | Diatoms,IMOS
+https://bie.ala.org.au/species/NZOR-6-124983,Biosphere | Microbiota Taxonomy | Diatoms,IMOS
+https://biodiversity.org.au/afd/taxa/932fe780-c493-4397-9455-69d0e37159a4,Biological Classification | Protists | Flagellates,IMOS
+https://biodiversity.org.au/afd/taxa/932fe780-c493-4397-9455-69d0e37159a4,Biosphere | Microbiota Taxonomy | Flagellates,IMOS
+https://biodiversity.org.au/afd/taxa/1351114d-dd32-4ad1-b4e6-d1c6ffcea710,Biological Classification | Protists | Flagellates | Dinoflagellates,IMOS
+https://biodiversity.org.au/afd/taxa/1351114d-dd32-4ad1-b4e6-d1c6ffcea710,Biosphere | Microbiota Taxonomy | Flagellates | Dinoflagellates,IMOS
+https://bie.ala.org.au/species/NZOR-6-108720,Biological Classification | Protists | Flagellates | Haptophytes,IMOS
+https://bie.ala.org.au/species/NZOR-6-96218,Biological Classification | Protists | Flagellates | Haptophytes | Coccolithophores,IMOS
+https://bie.ala.org.au/species/NZOR-6-96218,Biosphere | Microbiota Taxonomy | Coccolithophores,IMOS
+https://biodiversity.org.au/afd/taxa/932fe780-c493-4397-9455-69d0e37159a4,Biological Classification | Protists,IMOS
+https://biodiversity.org.au/afd/taxa/932fe780-c493-4397-9455-69d0e37159a4,Biosphere | Microbiota Taxonomy | Protists,IMOS
+https://biodiversity.org.au/afd/taxa/ca4c7bcd-7e77-485a-ada7-b4c54c734fb8,Biological Classification | Protists | Amoeboids,IMOS
+https://biodiversity.org.au/afd/taxa/3e5678e1-ab9f-4102-b645-3a5c618e9859,Biological Classification | Protists | Amoeboids | Foraminifers,IMOS
+https://biodiversity.org.au/afd/taxa/3e5678e1-ab9f-4102-b645-3a5c618e9859,Biosphere | Microbiota Taxonomy | Foraminifers,IMOS
+https://gcmd.earthdata.nasa.gov/kms/concept/91c64c46-d040-4daa-b26c-61952fdfaf50,Biosphere,IMOS
+https://gcmd.earthdata.nasa.gov/kms/concept/6bef0291-a9ca-4832-bbb4-80459dc1493f,Biosphere | Ecological Dynamics,IMOS
+https://gcmd.earthdata.nasa.gov/kms/concept/58f39353-7e1c-4884-9501-376cd0377fbf,Biosphere | Ecological Dynamics | Species/Population Interactions,IMOS
+https://gcmd.earthdata.nasa.gov/kms/concept/a4ed794f-d7b6-4e53-b565-3b86fe584ba3,Biosphere | Ecological Dynamics | Migratory Rates/routes,IMOS
+https://gcmd.earthdata.nasa.gov/kms/concept/a4ed794f-d7b6-4e53-b565-3b86fe584ba3,Biosphere | Ecological Dynamics | Species/Population Interactions | Migratory Rates/Routes,IMOS
+https://gcmd.earthdata.nasa.gov/kms/concept/fd06e0a2-f689-4b33-8a85-f38bf4966808,Biosphere | Ecological Dynamics | Species/Population Interactions | Species Life History,IMOS
+https://gcmd.earthdata.nasa.gov/kms/concept/fd06e0a2-f689-4b33-8a85-f38bf4966808,Biosphere | Ecological Dynamics | Life History,IMOS
+https://gcmd.earthdata.nasa.gov/kms/concept/f1a25060-330c-4f84-9633-ed59ae8c64bf,Biosphere | Ecosystems,IMOS
+https://gcmd.earthdata.nasa.gov/kms/concept/c6455081-132d-4661-bb5f-22edf2f90800,Biosphere | Ecosystems | Aquatic Ecosystems,IMOS
+https://gcmd.earthdata.nasa.gov/kms/concept/c6455081-132d-4661-bb5f-22edf2f90800,Biosphere | Aquatic Habitat,IMOS
+https://gcmd.earthdata.nasa.gov/kms/concept/ca8d77f2-9257-4298-9244-e81cd890f000,Biosphere | Ecosystems | Aquatic Ecosystems | Plankton,IMOS
+https://gcmd.earthdata.nasa.gov/kms/concept/ca8d77f2-9257-4298-9244-e81cd890f000,Biosphere | Microbiota Taxonomy | Plankton,IMOS
+https://gcmd.earthdata.nasa.gov/kms/concept/ca8d77f2-9257-4298-9244-e81cd890f000,Biosphere | Microbiota | Plankton,IMOS
+https://gcmd.earthdata.nasa.gov/kms/concept/235996b1-b1a8-4c20-bb1f-711fb1a0c952,Biosphere | Ecosystems | Aquatic Ecosystems | Plankton | Phytoplankton,IMOS
+https://gcmd.earthdata.nasa.gov/kms/concept/235996b1-b1a8-4c20-bb1f-711fb1a0c952,Biosphere | Vegetation | Phytoplankton,IMOS
+https://gcmd.earthdata.nasa.gov/kms/concept/235996b1-b1a8-4c20-bb1f-711fb1a0c952,Biosphere | Microbiota Taxonomy | Phytoplankton,IMOS
+https://gcmd.earthdata.nasa.gov/kms/concept/235996b1-b1a8-4c20-bb1f-711fb1a0c952,Biosphere | Microbiota | Phytoplankton,IMOS
+https://gcmd.earthdata.nasa.gov/kms/concept/f6350232-b1c7-458c-bc43-bda357ebb6db,Biosphere | Marine Ecosystems,IMOS
+https://gcmd.earthdata.nasa.gov/kms/concept/f6350232-b1c7-458c-bc43-bda357ebb6db,Biosphere | Ecosystems | Marine Ecosystems,IMOS
+https://gcmd.earthdata.nasa.gov/kms/concept/f6350232-b1c7-458c-bc43-bda357ebb6db,Oceans | Marine Biology,IMOS
+https://gcmd.earthdata.nasa.gov/kms/concept/f6350232-b1c7-458c-bc43-bda357ebb6db,Oceans | Marine Biology | Marine Habitat,IMOS
+https://gcmd.earthdata.nasa.gov/kms/concept/47be68db-d10d-43e7-b150-61cfd3f06126,Biosphere | Marine Ecosystems | Coastal,IMOS
+https://gcmd.earthdata.nasa.gov/kms/concept/47be68db-d10d-43e7-b150-61cfd3f06126,Biosphere | Aquatic Habitat | Coastal Habitat,IMOS
+https://gcmd.earthdata.nasa.gov/kms/concept/3d7ecc4f-e79e-40d1-8796-63059888bf5f,Biosphere | Marine Ecosystems | Pelagic,IMOS
+https://gcmd.earthdata.nasa.gov/kms/concept/3d7ecc4f-e79e-40d1-8796-63059888bf5f,Biosphere | Aquatic Habitat | Pelagic Habitat,IMOS
+https://id.biodiversity.org.au/taxon/apni/51414459,Biosphere | Vegetation,IMOS
+https://gcmd.earthdata.nasa.gov/kms/concept/91697b7d-8f2b-4954-850e-61d5f61c867d,Oceans,IMOS
+https://gcmd.earthdata.nasa.gov/kms/concept/c16bda61-353b-4668-af2f-bbb98785b6fa,Oceans | Bathymetry/Seafloor Topography,IMOS
+https://gcmd.earthdata.nasa.gov/kms/concept/c16bda61-353b-4668-af2f-bbb98785b6fa,Oceans | Bathymetry | Seafloor Topography,IMOS
+https://gcmd.earthdata.nasa.gov/kms/concept/80d79c7e-6c64-4ada-bfcc-4093969758a5,Oceans | Bathymetry/Seafloor Topography | Bathymetry,IMOS
+https://gcmd.earthdata.nasa.gov/kms/concept/80d79c7e-6c64-4ada-bfcc-4093969758a5,Oceans - Bathymetry/Seafloor Topography - Bathymetry,IMOS
+https://gcmd.earthdata.nasa.gov/kms/concept/80d79c7e-6c64-4ada-bfcc-4093969758a5,Oceans | Bathymetry,IMOS
+https://gcmd.earthdata.nasa.gov/kms/concept/ca477721-473b-40d7-a72b-4ffa963e48fb,Oceans | Bathymetry/Seafloor Topography | Water Depth,IMOS
+https://gcmd.earthdata.nasa.gov/kms/concept/ca477721-473b-40d7-a72b-4ffa963e48fb,Oceans | Bathymetry | Water Depth,IMOS
+https://gcmd.earthdata.nasa.gov/kms/concept/b6fd22ab-dca7-4dfa-8812-913453b5695b,Oceans | Coastal Processes,IMOS
+https://gcmd.earthdata.nasa.gov/kms/concept/4ba798ce-ad0b-4809-94fa-ec1b8e294252,Oceans | Coastal Processes | Beaches,IMOS
+https://gcmd.earthdata.nasa.gov/kms/concept/1fbf5df2-ab7c-43fc-9bb2-8eb3f8891f7b,Oceans | Coastal Processes | Coastal Elevation,IMOS
+https://gcmd.earthdata.nasa.gov/kms/concept/ad497e7a-48fa-45e1-90a5-b052508bdb30,Oceans | Coastal Processes | Coral Reefs,IMOS
+https://gcmd.earthdata.nasa.gov/kms/concept/a7dcdedf-bcc5-4032-b70f-7fadf74d6144,Oceans | Coastal Processes | Estuaries,IMOS
+https://gcmd.earthdata.nasa.gov/kms/concept/ce4b2c6e-3d69-4cf1-8416-c36e5f9b1b2c,Oceans | Marine Sediments,IMOS
+https://gcmd.earthdata.nasa.gov/kms/concept/ce4b2c6e-3d69-4cf1-8416-c36e5f9b1b2c,Oceans | Marine Sediments | Sediment Grain Size,IMOS
+https://gcmd.earthdata.nasa.gov/kms/concept/0517ae1f-7617-4f3b-80cb-649178032825,Oceans | Ocean Acoustics,IMOS
+https://gcmd.earthdata.nasa.gov/kms/concept/b4a924bb-0d42-4169-bad7-3856f69f0c4a,Oceans | Ocean Acoustics | Acoustic Scattering,IMOS
+https://gcmd.earthdata.nasa.gov/kms/concept/a74abbc1-dd75-4f22-bbec-7d45091a4593,Oceans | Ocean Acoustics | Ambient Noise,IMOS
+https://gcmd.earthdata.nasa.gov/kms/concept/6eb3919b-85ce-4988-8b78-9d0018fd8089,Oceans | Ocean Chemistry,IMOS
+https://gcmd.earthdata.nasa.gov/kms/concept/4eab7956-e59e-4615-8d5c-39a16faa1f27,Oceans | Ocean Chemistry | Alkalinity,IMOS
+https://gcmd.earthdata.nasa.gov/kms/concept/64d17528-29b4-4e2e-843a-7f7035bb5717,Oceans | Ocean Chemistry | Ammonia,IMOS
+https://gcmd.earthdata.nasa.gov/kms/concept/26afa886-4866-4536-be3a-6f9db9aacd97,Oceans | Ocean Chemistry | Carbon Dioxide,IMOS
+https://gcmd.earthdata.nasa.gov/kms/concept/68f7ba1b-a2f9-41b6-9bc1-fd187942fbed,Oceans | Ocean Chemistry | Carbonate,IMOS
+https://gcmd.earthdata.nasa.gov/kms/concept/7989eae1-8ea3-4039-af0c-9130de145449,Oceans | Ocean Chemistry | Chlorophyll,IMOS
+https://gcmd.earthdata.nasa.gov/kms/concept/ed925b43-db83-4cbb-8347-3dc0081bb8f4,"Oceans - Ocean Chemistry - Pigments , Chlorophyll",IMOS
+https://gcmd.earthdata.nasa.gov/kms/concept/38219b66-2acd-4f77-a0fc-8241172c9001,Oceans | Ocean Chemistry | Dissolved Gases,IMOS
+https://gcmd.earthdata.nasa.gov/kms/concept/d9b4f30d-bddd-4888-b66b-07d2dc09708b,Oceans | Ocean Chemistry | Inorganic Carbon,IMOS
+https://gcmd.earthdata.nasa.gov/kms/concept/b9cfc6af-a424-42b9-8e89-6b332262e841,Oceans | Ocean Chemistry | Inorganic Matter,IMOS
+https://gcmd.earthdata.nasa.gov/kms/concept/4fde380a-38c5-4d46-bc80-4f2515a43983,Oceans | Ocean Chemistry | Nitrate,IMOS
+https://gcmd.earthdata.nasa.gov/kms/concept/941410da-0b7f-4ec6-a718-212194ced13f,Oceans | Ocean Chemistry | Nitrite,IMOS
+https://gcmd.earthdata.nasa.gov/kms/concept/db5357c9-cc9d-4693-86fe-6bb88555d434,Oceans | Ocean Chemistry | Nitrogen,IMOS
+https://gcmd.earthdata.nasa.gov/kms/concept/8dd7c9f0-51d0-4037-b1d0-a2517c1770ad,Oceans | Ocean Chemistry | Nutrients,IMOS
+https://gcmd.earthdata.nasa.gov/kms/concept/d3055f47-258e-4556-a885-54cd1fff4680,Oceans | Ocean Chemistry | Organic Carbon,IMOS
+https://gcmd.earthdata.nasa.gov/kms/concept/b2bdeb71-81b5-43e6-a8b1-b09c215c8d1a,Oceans | Ocean Chemistry | Organic Matter,IMOS
+https://gcmd.earthdata.nasa.gov/kms/concept/90aa8838-79bd-4b28-b518-8217e863c385,Oceans | Ocean Chemistry | Oxygen,IMOS
+https://gcmd.earthdata.nasa.gov/kms/concept/4433600b-f323-458a-b295-352f939aab6b,Oceans | Ocean Chemistry | pH,IMOS
+https://gcmd.earthdata.nasa.gov/kms/concept/0b513d8c-bfd3-44ee-976e-42757b8375a2,Oceans | Ocean Chemistry | Phosphate,IMOS
+https://gcmd.earthdata.nasa.gov/kms/concept/ed925b43-db83-4cbb-8347-3dc0081bb8f4,Oceans | Ocean Chemistry | Pigments,IMOS
+https://gcmd.earthdata.nasa.gov/kms/concept/c91c8879-1b29-48e3-b4cd-a238af66cdaf,Oceans | Ocean Chemistry | Silicate,IMOS
+https://gcmd.earthdata.nasa.gov/kms/concept/718fb499-8c55-4fa6-9a07-ac9155d4bc9d,Oceans | Ocean Chemistry | Suspended Solids,IMOS
+https://gcmd.earthdata.nasa.gov/kms/concept/a031952d-9f00-4ba5-9966-5f87ab9dfdd4,Oceans | Ocean Circulation,IMOS
+https://gcmd.earthdata.nasa.gov/kms/concept/13927300-c59c-491a-91f3-f1540bcb2d8d,Oceans | Ocean Circulation | Eddies,IMOS
+https://gcmd.earthdata.nasa.gov/kms/concept/fc0a6bb2-27f0-48e8-89f1-ebfc7ccd4823,Oceans | Ocean Circulation | Gyres,IMOS
+https://gcmd.earthdata.nasa.gov/kms/concept/510c5f78-e19e-4ce4-b59a-8937aeb84631,Oceans | Ocean Circulation | Ocean Currents,IMOS
+https://gcmd.earthdata.nasa.gov/kms/concept/75ab3537-34b1-4025-b758-7296626079ba,Oceans | Ocean Circulation | Upwelling/Downwelling,IMOS
+https://gcmd.earthdata.nasa.gov/kms/concept/75ab3537-34b1-4025-b758-7296626079ba,Oceans | Ocean Circulation | Upwelling,IMOS
+https://gcmd.earthdata.nasa.gov/kms/concept/03fbea0a-74b9-4c78-8752-a588cff27f17,Oceans | Ocean Circulation | Wind-driven Circulation,IMOS
+https://gcmd.earthdata.nasa.gov/kms/concept/63bc0693-52eb-4ebd-a39e-e77e96409072,Oceans | Ocean Heat Budget,IMOS
+https://gcmd.earthdata.nasa.gov/kms/concept/ee2cb9eb-f960-4e23-9e7c-be64d44a64e7,Oceans | Ocean Heat Budget | Heat Flux,IMOS
+https://gcmd.earthdata.nasa.gov/kms/concept/bc891281-b24c-4310-b39b-81715d7dad08,Oceans | Ocean Heat Budget | Longwave Radiation,IMOS
+https://gcmd.earthdata.nasa.gov/kms/concept/8d69bce7-efce-4efb-9870-6a6d3a2684fd,Oceans | Ocean Heat Budget | Shortwave Radiation,IMOS
+https://gcmd.earthdata.nasa.gov/kms/concept/457883c4-b30c-4d26-bed8-6c2887ebbc90,Oceans | Ocean Optics,IMOS
+https://gcmd.earthdata.nasa.gov/kms/concept/e501d002-d11e-4569-8c0d-e40ae5b45f65,Oceans | Ocean Optics | Absorption,IMOS
+https://gcmd.earthdata.nasa.gov/kms/concept/a60ae1b6-abfc-4905-8c09-772da7bb1a10,Oceans | Ocean Optics | Fluorescence,IMOS
+https://gcmd.earthdata.nasa.gov/kms/concept/a60ae1b6-abfc-4905-8c09-772da7bb1a10,Oceans - Ocean Optics - Fluorescence,IMOS
+https://gcmd.earthdata.nasa.gov/kms/concept/78f5a84f-1b5b-44a9-97e7-4a1996cd2e36,Oceans | Ocean Optics | Ocean Color,IMOS
+https://gcmd.earthdata.nasa.gov/kms/concept/b7410899-350a-4443-9430-c7fe1fa3a499,Oceans | Ocean Optics | Photosynthetically Active Radiation,IMOS
+https://gcmd.earthdata.nasa.gov/kms/concept/20b41061-e6dc-47ef-b73b-00dc08a59618,Oceans | Ocean Optics | Scattering,IMOS
+https://gcmd.earthdata.nasa.gov/kms/concept/954c2f25-3ec8-4774-ba34-fa4289f33f0e,Oceans | Ocean Optics | Secchi Depth,IMOS
+https://gcmd.earthdata.nasa.gov/kms/concept/f0d83687-bc0a-4491-bb3e-697f1018da13,Oceans | Ocean Optics | Turbidity,IMOS
+https://gcmd.earthdata.nasa.gov/kms/concept/f0d83687-bc0a-4491-bb3e-697f1018da13,Oceans - Ocean Optics - Turbidity,IMOS
+https://gcmd.earthdata.nasa.gov/kms/concept/bfa56100-6fb5-4e49-9633-298fa3b45508,Oceans | Ocean Pressure,IMOS
+https://gcmd.earthdata.nasa.gov/kms/concept/dd025312-0d27-44e0-ae05-7cfcc1aa17f0,Oceans | Ocean Pressure | Water Pressure,IMOS
+https://gcmd.earthdata.nasa.gov/kms/concept/251c87cd-03b3-464f-8390-8ede2fec28fc,Oceans | Ocean Temperature,IMOS
+https://gcmd.earthdata.nasa.gov/kms/concept/bd24a9a9-7d52-4c29-b2a0-6cefd216ae78,Oceans | Ocean Temperature | Sea Surface Temperature,IMOS
+https://gcmd.earthdata.nasa.gov/kms/concept/46206e8c-8def-406f-9e62-da4e74633a58,Oceans | Ocean Temperature | Water Temperature,IMOS
+https://gcmd.earthdata.nasa.gov/kms/concept/46206e8c-8def-406f-9e62-da4e74633a58,Oceans - Ocean Temperature - Water Temperature,IMOS
+https://gcmd.earthdata.nasa.gov/kms/concept/a04804d5-1064-48fd-a7a7-8da8e10399e1,Oceans | Ocean Waves,IMOS
+https://gcmd.earthdata.nasa.gov/kms/concept/11aca777-8a01-42ce-b076-b3059c3d8cae,Oceans | Ocean Waves | Sea State,IMOS
+https://gcmd.earthdata.nasa.gov/kms/concept/1ac6850e-9266-4e90-ba83-b6a6cc4ae365,Oceans | Ocean Waves | Significant Wave Height,IMOS
+https://gcmd.earthdata.nasa.gov/kms/concept/4e4d3c18-cdd4-474a-a936-6e127ec526f7,Oceans | Ocean Waves | Swells,IMOS
+https://gcmd.earthdata.nasa.gov/kms/concept/0d91f6d9-44c4-4418-90b0-00feb09c6fc0,Oceans | Ocean Waves | Wave Frequency,IMOS
+https://gcmd.earthdata.nasa.gov/kms/concept/5daa972e-b47c-4050-97f1-1e628401fb97,Oceans | Ocean Waves | Wave Length,IMOS
+https://gcmd.earthdata.nasa.gov/kms/concept/99ea6719-b751-4a4f-95d4-aaa02e961bc1,Oceans | Ocean Waves | Wave Period,IMOS
+https://gcmd.earthdata.nasa.gov/kms/concept/e79ff727-c598-4a1c-8b4f-b6019fcf386b,Oceans | Ocean Waves | Wave Spectra,IMOS
+https://gcmd.earthdata.nasa.gov/kms/concept/e52114b2-adbc-4e3e-9c87-1a7f245fe5ef,Oceans | Ocean Waves | Wave Speed/direction,IMOS
+https://gcmd.earthdata.nasa.gov/kms/concept/0c9adb35-b203-42d7-8ccf-b7f2079db7ce,Oceans | Ocean Waves | Wind Waves,IMOS
+https://gcmd.earthdata.nasa.gov/kms/concept/346cade5-801a-4afc-9652-48d02905bc4f,Oceans | Ocean Winds,IMOS
+https://gcmd.earthdata.nasa.gov/kms/concept/fbc53539-ce4e-4e3e-bbd2-8270386616b4,Oceans | Ocean Winds | Surface Winds,IMOS
+https://gcmd.earthdata.nasa.gov/kms/concept/a46016d7-e571-403a-ab37-7223fd74e68e,Oceans | Salinity/Density,IMOS
+https://gcmd.earthdata.nasa.gov/kms/concept/7041e51c-e2de-405a-b154-6016f624f54f,Oceans | Salinity/Density | Conductivity,IMOS
+https://gcmd.earthdata.nasa.gov/kms/concept/7041e51c-e2de-405a-b154-6016f624f54f,Oceans | Salinity/density | Conductivity,IMOS
+https://gcmd.earthdata.nasa.gov/kms/concept/7041e51c-e2de-405a-b154-6016f624f54f,Oceans - Salinity/Density - Conductivity,IMOS
+https://gcmd.earthdata.nasa.gov/kms/concept/7e95b5fc-1d58-431a-af36-948b29fa870d,Oceans | Salinity/Density | Salinity,IMOS
+https://gcmd.earthdata.nasa.gov/kms/concept/7e95b5fc-1d58-431a-af36-948b29fa870d,Oceans | Salinity/density | Salinity,IMOS
+https://gcmd.earthdata.nasa.gov/kms/concept/5c0b448c-7eb4-4e8c-8403-260cbb6114bb,Oceans | Sea Surface Topography | Sea Surface Height,IMOS
+https://gcmd.earthdata.nasa.gov/kms/concept/5c0b448c-7eb4-4e8c-8403-260cbb6114bb,Oceans | Sea Surface Height,IMOS
+https://gcmd.earthdata.nasa.gov/kms/concept/5c0b448c-7eb4-4e8c-8403-260cbb6114bb,Oceans | Sea Surface Height | Sea Surface Height,IMOS
+https://gcmd.earthdata.nasa.gov/kms/concept/1ae304de-252c-45da-8dd8-df99a281e4f4,Human Dimensions | Boundaries | Administrative Divisions,TERN
+https://gcmd.earthdata.nasa.gov/kms/concept/1ae304de-252c-45da-8dd8-df99a281e4f4,,TERN
+https://gcmd.earthdata.nasa.gov/kms/concept/1ae304de-252c-45da-8dd8-df99a281e4f4,administrative area,TERN
+https://biodiversity.org.au/afd/taxa/4647863b-760d-4b59-aaa1-502c8cdf8d3c,animal individual,TERN
+https://biodiversity.org.au/afd/taxa/0490a9ba-0d08-473d-a709-6c42e354f118,Biological Classification | Animals/Vertebrates | Amphibians,TERN
+https://biodiversity.org.au/afd/taxa/0490a9ba-0d08-473d-a709-6c42e354f118,https://biodiversity.org.au/afd/taxa/0490a9ba-0d08-473d-a709-6c42e354f118,TERN
+https://biodiversity.org.au/afd/taxa/0490a9ba-0d08-473d-a709-6c42e354f118,amphibian individual,TERN
+https://biodiversity.org.au/afd/taxa/65625205-db74-4a87-b566-ca387b119974,bird individual,TERN
+https://biodiversity.org.au/afd/taxa/e22efeb4-2cb5-4250-8d71-61c48bdaa051,fish individual,TERN
+https://biodiversity.org.au/afd/taxa/4647863b-760d-4b59-aaa1-502c8cdf8d3c,invertebrate individual,TERN
+https://biodiversity.org.au/afd/taxa/e9e7db31-04df-41fb-bd8d-e0b0f3c332d6,mammal individual,TERN
+https://biodiversity.org.au/afd/taxa/682e1228-5b3c-45ff-833b-550efd40c399,reptile individual,TERN
+https://biodiversity.org.au/afd/taxa/4647863b-760d-4b59-aaa1-502c8cdf8d3c,animal occurrence,TERN
+https://biodiversity.org.au/afd/taxa/0490a9ba-0d08-473d-a709-6c42e354f118,amphibian occurrence,TERN
+https://biodiversity.org.au/afd/taxa/65625205-db74-4a87-b566-ca387b119974,bird occurrence,TERN
+https://biodiversity.org.au/afd/taxa/e22efeb4-2cb5-4250-8d71-61c48bdaa051,fish occurrence,TERN
+https://biodiversity.org.au/afd/taxa/4647863b-760d-4b59-aaa1-502c8cdf8d3c,invertebrate occurrence,TERN
+https://biodiversity.org.au/afd/taxa/e9e7db31-04df-41fb-bd8d-e0b0f3c332d6,mammal occurrence,TERN
+https://biodiversity.org.au/afd/taxa/682e1228-5b3c-45ff-833b-550efd40c399,reptile occurrence,TERN
+https://biodiversity.org.au/afd/taxa/4647863b-760d-4b59-aaa1-502c8cdf8d3c,animal population,TERN
+https://biodiversity.org.au/afd/taxa/65625205-db74-4a87-b566-ca387b119974,bird population,TERN
+https://biodiversity.org.au/afd/taxa/4647863b-760d-4b59-aaa1-502c8cdf8d3c,invertebrate population,TERN
+https://biodiversity.org.au/afd/taxa/2f82ed6f-9f73-448d-a2f6-18398202131b,Biological Classification | Animals/Invertebrates | Arthropods | Hexapods | Insects,TERN
+https://biodiversity.org.au/afd/taxa/2f82ed6f-9f73-448d-a2f6-18398202131b,https://biodiversity.org.au/afd/taxa/2f82ed6f-9f73-448d-a2f6-18398202131b,TERN
+https://biodiversity.org.au/afd/taxa/2f82ed6f-9f73-448d-a2f6-18398202131b,ant population,TERN
+https://biodiversity.org.au/afd/taxa/4647863b-760d-4b59-aaa1-502c8cdf8d3c,animal specimen,TERN
+https://gcmd.earthdata.nasa.gov/kms/concept/23703b6b-ee15-4512-b5b2-f441547e2edf,Climate Indicators,TERN
+https://gcmd.earthdata.nasa.gov/kms/concept/23703b6b-ee15-4512-b5b2-f441547e2edf,climate,TERN
+https://id.biodiversity.org.au/taxon/fungi/60082056,Biological Classification | Fungi,TERN
+https://id.biodiversity.org.au/taxon/fungi/60082056,https://id.biodiversity.org.au/taxon/fungi/60082056,TERN
+https://id.biodiversity.org.au/taxon/fungi/60082056,fungal occurrence,TERN
+https://gcmd.earthdata.nasa.gov/kms/concept/2b9ad978-d986-4d63-b477-0f5efc8ace72,Solid Earth,TERN
+https://gcmd.earthdata.nasa.gov/kms/concept/2b9ad978-d986-4d63-b477-0f5efc8ace72,geologic substrate,TERN
+https://gcmd.earthdata.nasa.gov/kms/concept/f1a25060-330c-4f84-9633-ed59ae8c64bf,habitat,TERN
+https://gcmd.earthdata.nasa.gov/kms/concept/6a426480-c58f-4b6b-8e35-0975b7f6edb5,Land Surface,TERN
+https://gcmd.earthdata.nasa.gov/kms/concept/6a426480-c58f-4b6b-8e35-0975b7f6edb5,land surface,TERN
+https://gcmd.earthdata.nasa.gov/kms/concept/a71560e7-42c5-4cbe-96fc-368de3b05a5f,Land Surface | Land Use/Land Cover | Disturbance,TERN
+https://gcmd.earthdata.nasa.gov/kms/concept/a71560e7-42c5-4cbe-96fc-368de3b05a5f,land surface disturbance,TERN
+https://gcmd.earthdata.nasa.gov/kms/concept/d35b9ba5-d018-48a5-8f0d-92b9c55b3279,Land Surface | Geomorphic Landforms/Processes,TERN
+https://gcmd.earthdata.nasa.gov/kms/concept/d35b9ba5-d018-48a5-8f0d-92b9c55b3279,land surface substrate,TERN
+https://gcmd.earthdata.nasa.gov/kms/concept/d35b9ba5-d018-48a5-8f0d-92b9c55b3279,landform,TERN
+https://id.biodiversity.org.au/taxon/apni/51414459,plant branch individual,TERN
+https://id.biodiversity.org.au/taxon/apni/51414459,plant stem individual,TERN
+https://gcmd.earthdata.nasa.gov/kms/concept/3526afb8-0dc9-43c7-8ad4-f34f250a1e91,Land Surface | Soils,TERN
+https://gcmd.earthdata.nasa.gov/kms/concept/3526afb8-0dc9-43c7-8ad4-f34f250a1e91,soil,TERN
+https://gcmd.earthdata.nasa.gov/kms/concept/7a16aa40-c74b-4a69-a230-1edd1b453332,Land Surface | Soils | Soil Horizons/Profile,TERN
+https://gcmd.earthdata.nasa.gov/kms/concept/7a16aa40-c74b-4a69-a230-1edd1b453332,soil horizon,TERN
+https://gcmd.earthdata.nasa.gov/kms/concept/7a16aa40-c74b-4a69-a230-1edd1b453332,soil profile,TERN
+http://linked.data.gov.au/def/tern-cv/06461021-a6c2-4175-9651-23653c2b9116,soil sample,TERN
+http://linked.data.gov.au/def/tern-cv/d738a3f9-9b00-4adf-9dc8-0577269b691d,soil specimen,TERN
+http://linked.data.gov.au/def/tern-cv/b9a72809-6d53-4dad-bac6-bfe4dc76be31,soil subsite,TERN
+https://id.biodiversity.org.au/taxon/apni/51414459,vegetation,TERN
+https://gcmd.earthdata.nasa.gov/kms/concept/afc54d28-de94-4674-9528-39f00bf74d6d,Biosphere | Vegetation | Litter Characteristics,TERN
+http://linked.data.gov.au/def/tern-cv/a8b1a7fb-b479-48ff-b706-b3cc4691710b,dead wood,TERN
+http://linked.data.gov.au/def/tern-cv/c001183f-c6b5-4162-8de9-0c7ed0eb3bfe,coarse woody debris,TERN
+http://linked.data.gov.au/def/tern-cv/de081296-00ba-4ddf-aa7a-947bf3a3e0aa,coarse woody debris piece,TERN
+https://gcmd.earthdata.nasa.gov/kms/concept/686feba9-87ba-474c-8280-7f67565cfb2f,Biosphere | Vegetation | Biomass,TERN
+http://linked.data.gov.au/def/tern-cv/0e354d29-e23f-4ba7-84d6-9b58ca289782,stand dead wood,TERN
+http://linked.data.gov.au/def/tern-cv/a1523a81-8865-401e-8ae6-c9bd26faee02,fine woody debris,TERN
+https://id.biodiversity.org.au/taxon/apni/51414459,plant community,TERN
+https://gcmd.earthdata.nasa.gov/kms/concept/c7b5c02c-724d-4a19-b824-98180f3900c9,plant functional type,TERN
+https://id.biodiversity.org.au/taxon/apni/51414459,plant individual,TERN
+http://linked.data.gov.au/def/tern-cv/e6ed6e58-5916-4d31-9ed5-109ab3436fce,plant litter,TERN
+http://linked.data.gov.au/def/tern-cv/699b7fcb-6816-4f2a-9f2f-72b8a913f1d0,stand plant litter,TERN
+http://linked.data.gov.au/def/tern-cv/4b36a1ab-7a77-49ca-866a-e68bce2db9e5,plant matter,TERN
+http://linked.data.gov.au/def/tern-cv/a0bcca19-143c-4898-9f43-321bad63ebad,stand plant matter,TERN
+https://id.biodiversity.org.au/taxon/apni/51414459,plant occurrence,TERN
+https://id.biodiversity.org.au/taxon/apni/51414459,plant population,TERN
+https://id.biodiversity.org.au/taxon/apni/51414459,plant specimen,TERN
+https://gcmd.earthdata.nasa.gov/kms/concept/a71560e7-42c5-4cbe-96fc-368de3b05a5f,vegetation disturbance,TERN
+http://linked.data.gov.au/def/tern-cv/df7fd606-8145-4206-b66e-b86444888802,vegetation fuel,TERN
+http://linked.data.gov.au/def/tern-cv/e590824a-ab58-4ea4-9026-47f337273f45,quadrat vegetation fuel sample,TERN
+http://linked.data.gov.au/def/tern-cv/edebcd9a-a42e-49ba-a629-056cb1a7ba73,stand vegetation fuel,TERN
+http://linked.data.gov.au/def/tern-cv/8cd716ed-7d4f-4c44-81ba-c921cb431962,transect vegetation fuel sample,TERN
+https://id.biodiversity.org.au/taxon/apni/51414459,vegetation stand,TERN
+https://id.biodiversity.org.au/taxon/apni/51414459,vegetation stratum,TERN
+https://id.biodiversity.org.au/taxon/apni/51414459,plant taxa per stratum,TERN
